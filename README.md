@@ -1,13 +1,15 @@
 # PHP Practice
 
-repositório para armazenar práticas PHP
+Repositório para armazenar práticas em PHP.
 
-[x] arrays, coleções e exceptions
-[x] doctrine
-[x] laravel
-[x] lumen
-[x] mvc psr
-[x] mvc
-[x] pdo
-[x] composer
-[x] banco
+## Conteúdos
+
+- [x] Arrays, coleções e exceptions  
+- [x] Doctrine  
+- [x] Laravel  
+- [x] Lumen  
+- [x] MVC (PSR)  
+- [x] MVC  
+- [x] PDO  
+- [x] Composer  
+- [x] Banco (financeiro)
